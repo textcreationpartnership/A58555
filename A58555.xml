@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act concerning the receiving of engagers in the late unlawfull warre against England to publick satisfaction.</title>
+            <author>Church of Scotland. General Assembly. Commission.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58555</idno>
+            <idno type="STC">Wing S1073</idno>
+            <idno type="STC">ESTC R23894</idno>
+            <idno type="EEBO-CITATION">07918695</idno>
+            <idno type="OCLC">ocm 07918695</idno>
+            <idno type="VID">40450</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58555)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40450)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1212:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act concerning the receiving of engagers in the late unlawfull warre against England to publick satisfaction.</title>
+                  <author>Church of Scotland. General Assembly. Commission.</author>
+                  <author>Ker, A.</author>
+               </titleStmt>
+               <extent>5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: A. Ker.</note>
+                  <note>Reproduction of original in the Aberdeen University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40450:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 116 -->
+            <p>ACT Concerning the Receiving of ENGAGERS IN THE Late Unlawfull VVarre againſt <hi>ENGLAND,</hi> To publick SATISFACTION.</p>
+            <p>
+               <hi>EDINBVRGH,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the Kings moſt Excellent Majeſtie, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:40450:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 117 -->
+            <pb n="1" facs="tcp:40450:2"/>
+            <!-- PDF PAGE 117 -->
+            <head>
+               <hi>Edinb.</hi> 20. Julii 1649. <hi>Antemeridiem,</hi> Seſſ. XIX. Act concerning the receiving of Enga<g ref="char:EOLhyphen"/>gers in the late unlawfull VVar a<g ref="char:EOLhyphen"/>gainſt <hi>England,</hi> to publick Satis<g ref="char:EOLhyphen"/>faction.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Generall Aſſembly conſidering what great offence againſt God, and Scandal to his People at home and a<g ref="char:EOLhyphen"/>broad, hath ariſen from the late unlaw<g ref="char:EOLhyphen"/>full Engagement in War againſt <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> whereby contrary to the Law of God and of Nations, contrary to the Solemn League and Covenant, contrary to the Petiti<g ref="char:EOLhyphen"/>ons of almoſt the whole Kingdom, contrary to the De<g ref="char:EOLhyphen"/>clarations of the Judicatories of this Kirk, contrary to the Proteſtations of a conſiderable part of the Parlia<g ref="char:EOLhyphen"/>ment, contrary to the frequent and clear Warnings of the Servants of God in his name, not onely an Aſſoci<g ref="char:EOLhyphen"/>ation in Counſels and Armes was made with Malignant perſons, who had formerly ſhewn their diſ-affection to the Covenant and Cauſe, but an invaſion of the Neigh<g ref="char:EOLhyphen"/>bour Nation was proſecuted; from whence flowed the oppreſsion of the perſons, eſtates and conſciences of many of the People of God in this Land, the ſhedding of the blood of ſome, the loſs and diſhonour of this Nation, and ſeverall other inconveniences: And con<g ref="char:EOLhyphen"/>ſidering
+<pb n="2" facs="tcp:40450:3"/>
+               <!-- PDF PAGE 118 -->
+that the Commiſsioners of the laſt Generall Aſſembly have acquit themſelves faithfully, in ordaining to be ſuſpended from the renewing of the Covenant and from the Ordinance of the Lords Supper, ſuch as are deſigned in their Acts of date the 6. of <hi>October</hi> and 4. of <hi>December</hi> laſt, referring the further conſideration and cenſure of the perſons foreſaid to this preſent Gene<g ref="char:EOLhyphen"/>rall Aſſembly: Therefore the Generall Aſſembly for re<g ref="char:EOLhyphen"/>moving of ſuch offences, and for prevention of the like in time coming, and for reſtoring of ſuch as are truly humbled, do Declare and Appoint,</p>
+            <p n="1">I. That all thoſe who have been guilty and cenſured as aforeſaid, and withal, do not by their addreſſes to Kirk Judicatories teſtifie their diſlike thereof, and give evi<g ref="char:EOLhyphen"/>dences of their Repentance therefore, That theſe be pro<g ref="char:EOLhyphen"/>ceſſed, and continuing obſtinate, be excommunicated; But if with all they go on in promoving Malignant De<g ref="char:EOLhyphen"/>ſignes, that they be forthwith Excommunicated: As alſo that all ſuch perſons guilty as aforeſaid, who after Pro<g ref="char:EOLhyphen"/>feſsion of their Repentance ſhall yet again hereafter re<g ref="char:EOLhyphen"/>lapſe to the promoting any Malignant Deſigne, that theſe be likewiſe-forthwith excommunicated.</p>
+            <p n="2">II. That all theſe who have been guilty and cenſured as aforeſaid, and deſire to teſtifie their Repentance and to be admitted to the Covenant and Communion, ſhall beſides any Confeſſion in publick before the Congrega<g ref="char:EOLhyphen"/>tion ſubſcribe the Declaration, hereto ſubjoyned, of their unfained deteſtation and renunciation of that Engagement, and all other Malignant courſes con<g ref="char:EOLhyphen"/>ſes contrary to the Covenant and Cauſe, Promiſing to keep themſelves from ſuch ways in time coming, and ac<g ref="char:EOLhyphen"/>knowledging that if they ſhall again fall into ſuch de<g ref="char:EOLhyphen"/>fection thereafter, they may juſtly be accompted perfi<g ref="char:EOLhyphen"/>dious backſliders, and breakers of the Covenant and
+<pb n="3" facs="tcp:40450:3"/>
+               <!-- PDF PAGE 118 -->
+Oath of God, and proceeded againſt with the higheſt Cenſures of the Kirk.</p>
+            <p n="3">III. That of theſe who have been guilty and cenſured as aforeſaid, and deſire now to teſtifie their Repentance, Whoſoever were formerly joyned in Armes or Coun<g ref="char:EOLhyphen"/>ſell with <hi>James Graham</hi> in his Rebellion, or who were Generall perſons or Colonels in the late unlawful En<g ref="char:EOLhyphen"/>gagement, Or who went to <hi>Ireland</hi> to bring over Forces for that effect, Or who have been eminently active in contriving of, or ſeducing unto the ſaid Engagement, Or whoſoever above the degree of a Lieutenant Com<g ref="char:EOLhyphen"/>manded theſe parties, that in promoving of the ends of the ſaid Engagement ſhed blood within the Kingdom, either before that Armie of Engagers went to <hi>England,</hi> or after their returne, Or who above the degree fore<g ref="char:EOLhyphen"/>ſaid Commanded in the late Rebellion in the North; That none of theſe be admitted or received to give ſatis<g ref="char:EOLhyphen"/>faction, but by the Generall Aſſembly or their Com<g ref="char:EOLhyphen"/>miſsioners.</p>
+            <p n="4">IV. That all the reſt of theſe who have been guilty, or cenſured as aforeſaid, may be received by the Presby<g ref="char:EOLhyphen"/>teries where they reſide.</p>
+            <p n="5">V. That all who have been guilty as aforeſaid, be<g ref="char:EOLhyphen"/>fore their receiving to the Covenant, ſhall make a So<g ref="char:EOLhyphen"/>lemn publick Acknowledgement in ſuch manner, and before ſuch Congregations as the Commiſsion of the Generall Aſſembly or Presbyteries <hi>reſpective</hi> ſhall pre<g ref="char:EOLhyphen"/>ſcribe, according to the degree of their offence and ſcan<g ref="char:EOLhyphen"/>dall given.</p>
+            <p n="6">VI. That none of the foreſaid Perſons be admitted, or received as Elders in any Judicatories of the Kirk, but according to the Act of the General Aſſembly of the
+<pb n="4" facs="tcp:40450:4"/>
+               <!-- PDF PAGE 119 -->
+laſt of <hi>Auguſt</hi> 1647. againſt complyers of the firſt Claſſe.</p>
+            <p>And becauſe many have heretofore made ſhew and profeſsion of their Repentance, who were not indeed convinced of their guiltineſſe, nor humbled for the ſame, but did thereafter return with the dog to the vo<g ref="char:EOLhyphen"/>mit, and with the ſow to the puddle, unto the mocking of God, and the exceeding great reproach and detri<g ref="char:EOLhyphen"/>ment of his Cauſe: Therefore, for the better determi<g ref="char:EOLhyphen"/>ning the Truth and ſincerity of the Repentance of thoſe who deſire to be admitted to the Covenant and Com<g ref="char:EOLhyphen"/>munion: It is appointed and Ordained that none of thoſe perſons who are debarred from the Covenant and Communion ſhall be admitted and received thereto, but ſuch as after exact tryal, ſhall be found for ſome compe<g ref="char:EOLhyphen"/>tent time before or after the offer of their Repentance, according to the diſcretion of the reſpective Judicato<g ref="char:EOLhyphen"/>ries, to have in their ordinary converſations given real Te<g ref="char:EOLhyphen"/>ſtimonie of their diſlike of the late unlawfull Engage<g ref="char:EOLhyphen"/>ment, and of the courſes and wayes of Malignants, and of their ſorrow for their acceſsion to the ſame, and to live ſoberly, righteouſly and godly; And if any ſhall be found, who after the defeating of the Engagers have uttered any Malignant ſpeeches, tending to the appro<g ref="char:EOLhyphen"/>bation of the late unlawfull Engagement, or the blood<g ref="char:EOLhyphen"/>ſhed within the Kingdom for promoving of the ends of the ſaid Engagement, or any other projects or practiſes within or without the Kingdom, prejudiciall to Religion and the Covenant, or tending to the reproach of the Mi<g ref="char:EOLhyphen"/>niſtry, or the civil Government of the Kingdom; Or who have unneceſſarily or ordinarily converſed with Malig<g ref="char:EOLhyphen"/>nants and diſaffected perſons, Or who have had hand in, or acceſsion to, or compliance with, or have any wayes
+<pb n="5" facs="tcp:40450:4"/>
+               <!-- PDF PAGE 119 -->
+countenanced or promoved any Malignant Deſign, prejudicial to Religion and the Covenant, That theſe, notwithſtanding their profeſsion of Repentance be not ſuddenly received, but a competent time, according to the diſcretion of the Ju<g ref="char:EOLhyphen"/>dicatory, be aſſigned to them for tryall of the evidence of their Repentance, according to the qualifications above<g ref="char:EOLhyphen"/>mentioned. And the Generall Aſſembly Ordains Presbyte<g ref="char:EOLhyphen"/>ries to make intimation of this Act in the ſeverall Kirks of their bounds ſo ſoon as they can, after the riſing of the Ge<g ref="char:EOLhyphen"/>nerall Aſſembly, that none pretend ignorance; And that Presbyteries make accompt of their diligence in proſecuting of this Act to the Quarterly meetings of the Commiſsion of this Aſſembly.</p>
+            <closer>
+               <signed>A. Ker.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb facs="tcp:40450:5"/>
+            <!-- PDF PAGE 120 -->
+            <head>The Declaration and Acknowledgement beforementioned.</head>
+            <p>I  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  after due conſideration of the late Engagement in War againſt the Kingdom of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> And having alſo conſidered the courſe purſued and pro<g ref="char:EOLhyphen"/>moted by the Earl of <hi>Lanerk, George Monro</hi> and their Adhe<g ref="char:EOLhyphen"/>rents in and about <hi>Stirling,</hi> and by others in the late Rebellion in the North, againſt all which not only eminent Teſtimonies of Gods Wrath have been given in defeating of them, but they were in themſelves ſinfull breaches of Covenant, and preferring the intereſt of man unto God; I do herefore in Gods ſight profeſs, that I am convinced of the unlawfulneſs of all theſe ways, as contrary to the Word of God, and to the Solemn League and Covenant, not only in regard of the miſ<g ref="char:EOLhyphen"/>carriages of theſe that were imployed therein, but alſo in re<g ref="char:EOLhyphen"/>ſpect of the nature of theſe courſes themſelves; And there<g ref="char:EOLhyphen"/>fore profeſſing my unfained ſorrow for my guiltineſs by my acceſsion to the ſame, do renounce and diſclaim the foreſaid Engagement and all the courſes that were uſed for carrying on the ſame, either before or after the defeat of the Engagers, as contrary to the Word of GOD and Solemne League and Covenant, and deſtructive to Religion and the work of Reformation; And I do promiſe in the po<g ref="char:EOLhyphen"/>wer of the Lords ſtrength, never again to own any of theſe or the like courſes: And if hereafter at any time, I ſhall be found to promote any Malignant Deſigne or courſe, that I ſhall juſtly be accompted a perfidious Covenant-breaker and deſpiſer of the Oath of God, and be proceeded againſt with the higheſt Cenſures of the Kirk: Likeas, I do hereby promiſe to adhere to the National Covenant of this Kingdom, and to the Solemn League and Covenant betwixt the Kingdoms, and to be honeſt &amp; zealous for promoving all the ends there<g ref="char:EOLhyphen"/>of, as I ſhall be called thereunto of God, and to flee all occa<g ref="char:EOLhyphen"/>ſions and temptations that may lead me into any the like ſnares againſt the ſame. Subſcribed  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  at  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  the  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  day of  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:40450:5"/>
+            <!-- PDF PAGE 120 -->
+         </div>
+      </body>
+   </text>
+</TEI>
